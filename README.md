@@ -1,4 +1,4 @@
-# TRUStoreApp
+# ProductApp
 
 An iOS assignment built using **UIKit** and **MVVM**, fetching product data from [FakeStoreAPI](https://fakestoreapi.com/products?limit=7).  
 This app demonstrates clean architecture, pagination, layout switching, caching, and more.
